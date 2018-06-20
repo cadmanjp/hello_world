@@ -5,7 +5,7 @@ Hello World! This is a collection of resources and examples that I find interest
 
 ## DITA Editors
 + Scriptorium (North Carolina)
-+ Oxygen
++ OXygen
 + DITA Exchange
 + Adobe Technical Communicator
 + easyDITA
